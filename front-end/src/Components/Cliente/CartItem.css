@@ -1,0 +1,6 @@
+.CartItem {
+  background: #eaf1ef;
+  display: flex;
+  justify-content: space-around;
+  margin: 5px;
+}

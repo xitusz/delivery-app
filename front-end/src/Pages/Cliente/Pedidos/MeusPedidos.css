@@ -1,0 +1,49 @@
+.cardsContainer {
+  display: flex;
+  flex-flow: row wrap;
+  position: absolute;
+  top: 150px;
+}
+
+.each-card {
+  align-items: center;
+  border: #001813;
+  height: 50px;
+  left: 151px;
+  margin: 40px 10px;
+  top: 375px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.unit-card-container {
+  align-items: center;
+  background: #eaf1ef;
+  border: 1px solid #b1c2be;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  color: #001813;
+  display: flex;
+  flex-direction: row;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  gap: 10px;
+  line-height: 28px;
+  padding: 10px;
+  text-align: center;
+}
+
+.ordem-entregue {
+  background: rgba(0, 204, 155, 0.75);
+  border-radius: 10px;
+  padding: 20% 0;
+}
+
+.ordem-preparando, .ordem-pendente {
+  background: rgba(204, 184, 0, 0.75);
+  border-radius: 10px;
+  padding: 20% 0;
+}

@@ -1,0 +1,11 @@
+.Cart {
+  display: flex;
+  flex-flow: column;
+  position: relative;
+  top: 100px;
+}
+
+.CartHeader {
+  display: flex;
+  justify-content: space-around;
+}

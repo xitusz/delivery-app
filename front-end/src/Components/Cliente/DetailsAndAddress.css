@@ -1,0 +1,21 @@
+.DetailsAndAddress {
+  display: flex;
+  flex-flow: column;
+  position: relative;
+  top: 100px;
+}
+
+.DetailsAndAddressHeader {
+  display: flex;
+}
+
+.finishButton {
+  background: #036b52;
+  color: #f2fffc;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 42px;
+  margin: 20px auto;
+  width: 300px;
+}

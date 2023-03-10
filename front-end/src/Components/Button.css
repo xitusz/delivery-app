@@ -1,0 +1,81 @@
+/* button {
+  align-items: center;
+  color: #f2fffc;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 42px;
+  text-align: center;
+} */
+
+.activePage {
+  align-items: center;
+  background: #2fc18c;
+  color: #001813;
+  display: flex;
+  flex: 1;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  height: 105px;
+  line-height: 33px;
+  text-align: center;
+  top: 0;
+  width: fit-content;
+}
+
+.inactivePage {
+  align-items: center;
+  background: #036b52;
+  display: flex;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 700;
+  height: 105px;
+  line-height: 33px;
+  text-align: center;
+  top: 0;
+  width: fit-content;
+}
+
+.user {
+  align-items: center;
+  background: #421981;
+  color: #f2fffc;
+  display: flex;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  height: 104.49px;
+  line-height: 42px;
+  text-align: center;
+  top: 0.01px;
+  width: fit-content;
+}
+
+.logout {
+  align-items: center;
+  background: #056cf9;
+  color: #f2fffc;
+  display: flex;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 500;
+  height: 104px;
+  line-height: 33px;
+  text-align: center;
+  width: fit-content;
+}
+
+.counter-btn {
+  align-items: center;
+  background: #036b52;
+  border-radius: 10px;
+  color: #f2fffc;
+  display: flex;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 56px;
+  text-indent: 16px;
+}

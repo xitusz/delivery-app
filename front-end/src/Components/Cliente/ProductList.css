@@ -1,0 +1,7 @@
+.productList {
+  display: flex;
+  flex-flow: row wrap;
+  left: 60px;
+  position: absolute;
+  top: 159px;
+}

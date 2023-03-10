@@ -1,0 +1,18 @@
+.goToCart-btn {
+  align-items: center;
+  background: #036b52;
+  border-radius: 10px;
+  color: #f2fffc;
+  display: flex;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 500;
+  height: 79px;
+  line-height: 42px;
+  text-align: center;
+  width: 445px;
+
+  /* left: 1450px;
+  position: absolute;
+  top: 977px; */
+}
