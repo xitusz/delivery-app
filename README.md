@@ -6,7 +6,6 @@
 ## Sumário
 
 - [Contexto](#contexto)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Clonando Repositório](#clonando-repositório)
 - [Instalando Dependências](#instalando-dependências)
 - [Executando Aplicação](#executando-aplicação)
@@ -17,13 +16,7 @@
 ## Contexto
 
 * Projeto desenvolvido para colocar em prática conhecimentos aprendidos até o momento (Front-end / Back-end)
-* Projeto realizado com [Esau Matias](https://github.com/esaumatias), [Giovanni Duarte](https://github.com/gdpinheiro),[Guilherme de Lima](https://github.com/Guilherme-moreno), [Felipe Vahia](https://github.com/felipemalli) e [Bernardo Coutinho](https://github.com/Bernardocdr).
-
----
-
-## Tecnologias Utilizadas
-
-* 
+* Projeto realizado com [Esau Matias](https://github.com/esaumatias), [Giovanni Duarte](https://github.com/gdpinheiro), [Guilherme de Lima](https://github.com/Guilherme-moreno), [Felipe Vahia](https://github.com/felipemalli) e [Bernardo Coutinho](https://github.com/Bernardocdr).
 
 ---
 
