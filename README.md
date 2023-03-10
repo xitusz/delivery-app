@@ -1,5 +1,5 @@
 # App Delivery
-[13/13] [Desenvolvimento Back-end](https://github.com/G-Alves1/Trybe/tree/main/03_Desenvolvimento-Back-end)
+[13/13] [Desenvolvimento Back-end](https://github.com/xitusz/Trybe/tree/main/03_Desenvolvimento-Back-end)
 
 ---
 
@@ -24,7 +24,7 @@
 
 * Clone o repositório
   ```sh
-    git clone git@github.com:G-Alves1/app-delivery.git
+    git clone git@github.com:xitusz/app-delivery.git
   ```
 
 ---
