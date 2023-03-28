@@ -24,7 +24,7 @@
 
 * Clone o repositório
   ```sh
-    git clone git@github.com:xitusz/app-delivery.git
+    git clone git@github.com:xitusz/delivery-app.git
   ```
 
 ---
@@ -33,7 +33,7 @@
 
 * Entre na pasta do repositório que você clonou:
   ```sh
-    cd app-delivery
+    cd delivery-app
   ```
 
 * Instale as dependências
@@ -68,7 +68,7 @@
 
 * Entre na pasta do repositório que você clonou:
   ```sh
-    cd app-delivery
+    cd delivery-app
   ```
 
 * Inicie o projeto
