@@ -1,4 +1,4 @@
-# App Delivery
+# Delivery App
 [12/12] [Desenvolvimento Back-end](https://github.com/xitusz/Trybe/tree/main/03_Desenvolvimento-Back-end)
 
 ---
